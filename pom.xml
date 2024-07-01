@@ -23,7 +23,7 @@
   </dependencies>
 
   <build>
-    <finalName>02-Maven-WebApp</finalName>
+    <finalName>Maven-WebApp</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
